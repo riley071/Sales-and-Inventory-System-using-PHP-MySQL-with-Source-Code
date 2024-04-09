@@ -20,7 +20,7 @@ The system organizes products by type and category, allowing easy searching and 
 
 6. Once the aforementioned lists are populated, the system administrator or authorized personnel can begin utilizing the sales feature of the system.
 
-#Features:
+# Features:
 
 **- Login Page:**
 The page where system users input their credentials to access the wholesale sales and inventory system.
@@ -34,28 +34,28 @@ Displays all available products in the inventory and can only be managed by the 
 **- Product Category Page:**
 Lists and manages all product categories.
 
-**-Product Type Page:**
+**- Product Type Page:**
 Displays and manages different types of products.
 
-**-Supplier List Page:**
+**- Supplier List Page:**
 Allows the administrator to manage the list of suppliers associated with the wholesale company.
 
-**-Receipt Page:**
+**- Receipt Page:**
 Where administrators input received products purchased from suppliers, updating inventory availability.
 
-**-Customer Page:**
+**- Customer Page:**
 Lists all customers associated with the wholesale company.
 
-**-Sales Page:**
+**- Sales Page:**
 Where sales transactions are processed, and sales records are maintained.
 
-**-Inventory Page:**
+**- Inventory Page:**
 Enables pharmacy management to monitor their inventory levels.
 
-**-Expired Product List:**
+**- Expired Product List:**
 Displays expired products, allowing for deduction from available stock.
 
-**-User List:**
+**- User List:**
 Allows the system administrator to manage the list of users of the wholesale sales and inventory system.
 
 # How to Run
