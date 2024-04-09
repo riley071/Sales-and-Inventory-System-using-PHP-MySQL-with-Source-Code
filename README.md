@@ -22,4 +22,38 @@ The system organizes products by type and category, allowing easy searching and 
 
 #Features:
 
+**- Login Page:**
+The page where system users input their credentials to access the wholesale sales and inventory system.
+**- Home Page:**
+The default landing page for system users upon logging in.
+**- Product List Page:**
+Displays all available products in the inventory and can only be managed by the system administrator.
+**- Product Category Page:**
+Lists and manages all product categories.
+**-Product Type Page:**
+Displays and manages different types of products.
+**-Supplier List Page:**
+Allows the administrator to manage the list of suppliers associated with the wholesale company.
+**-Receipt Page:**
+Where administrators input received products purchased from suppliers, updating inventory availability.
+**-Customer Page:**
+Lists all customers associated with the wholesale company.
+**-Sales Page:**
+Where sales transactions are processed, and sales records are maintained.
+**-Inventory Page:**
+Enables pharmacy management to monitor their inventory levels.
+**-Expired Product List:**
+Displays expired products, allowing for deduction from available stock.
+**-User List:**
+Allows the system administrator to manage the list of users of the wholesale sales and inventory system.
 
+# How to Run
+Download the source code and extract the zip file.
+Download or set up any local web server that runs PHP script.
+Open the web-server database and create a new database name it **database name**.
+Import the SQL file located in the database folder of the source code.
+Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+Open a web browser and browse the project. E.g [http://localhost/sales-and-inventory-system-using-php]
+# Admin Default Access
+Username: admin
+Password: admin123
